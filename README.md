@@ -21,7 +21,7 @@ I am a Computer Science Engineering student specializing in full-stack developme
                   </p>
                   
 
-                ### Socials
+               
                 
 
 ### Badges
