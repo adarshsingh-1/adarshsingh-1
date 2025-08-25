@@ -1,5 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img alt="Coder GIF" width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
