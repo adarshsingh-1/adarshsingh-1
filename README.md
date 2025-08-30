@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer Learning AI
 -------------------------
 
-I am a Computer Science Engineering student specializing in full-stack development. I build web applications using React.js, Node.js, Express.js, and MongoDB. I have developed projects like a URL shortener, an AI text summarizer Chrome extension, and a real-time currency converter. I also have a strong foundation in C++, Java, Python, and data structures.
+I am a Computer Science Engineering student specializing in full-stack development. I build scalable web applications using React.js, Node.js, Express.js, and MongoDB. I have experience developing end-to-end solutions with authentication, APIs, and real-time features. I also have a strong foundation in C++, Java, Python, and data structures.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [adarsh042021@outlook.com](mailto:adarsh042021@outlook.com)
