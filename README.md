@@ -1,6 +1,5 @@
 <img alt="Coder GIF" width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Adarsh Singh
 =====================================================================================================================================
 
 # Hi, I'm Adarsh Singh 👋
